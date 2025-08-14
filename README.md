@@ -18,6 +18,12 @@ Hi! my name is Pietro, i am a fullstack dev from Brazil.<br>I am currently study
 ---
 [![](https://visitcount.itsvg.in/api?id=PietroWilhelm&icon=9&color=6)](https://visitcount.itsvg.in)
 
+### Learning 
+  - React
+  - Spring
+  - TypeScript
+  - BootStrap
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
