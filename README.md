@@ -47,6 +47,7 @@ I care about clean code, good DX, and shipping things that work.
     <td><strong>Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+      <!-- adicionar outras ferramentas que você usa -->
     </td>
   </tr>
 </table>
@@ -71,22 +72,17 @@ I care about clean code, good DX, and shipping things that work.
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=PietroWilhelm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 <br/>  
-![](https://streak-stats.demolab.com?user=PietroWilhelm&theme=dark&hide_border=false)  
+![](https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=dark&hide_border=false)  
 <br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroWilhelm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 📈 Contributions Overview  
-![Metrics](https://metrics.lecoq.io/PietroWilhelm?template=classic&isocalendar=1&languages=1&activity=1&notable=1&isocalendar.duration=full-year&languages.limit=8&config.timezone=America%2FSao_Paulo)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🔝 Top Contributed Repos  
-![](https://github-contributor-stats.vercel.app/api?username=PietroWilhelm&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=PietroWilhelm&icon=9&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SEU_USUARIO_GITHUB&icon=9&color=6)](https://visitcount.itsvg.in)
