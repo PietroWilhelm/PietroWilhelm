@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Pietro
 
 Full-stack developer from Brazil 🇧🇷.  
-Currently studying at **FIAP** and building apps with **Java/Spring Boot** and **React/TypeScript**.  
+Currently studying at **FIAP** and building apps with **Java / Spring Boot** and **React / TypeScript**.  
 I care about clean code, good DX, and shipping things that work.
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrowilhelm/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pietro.wilhelm@ot.com.br)
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrowilhelm/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
 
 ---
 
@@ -33,6 +33,7 @@ I care about clean code, good DX, and shipping things that work.
     <td><strong>Backend / Frameworks</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -65,22 +66,25 @@ I care about clean code, good DX, and shipping things that work.
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td><strong>Backend / Frameworks</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-    </td>
-  </tr>
 </table>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=PietroWilhelm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![](https://streak-stats.demolab.com?user=PietroWilhelm&theme=dark&hide_border=false)
-<br/>
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=PietroWilhelm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+<br/>  
+![](https://streak-stats.demolab.com?user=PietroWilhelm&theme=dark&hide_border=false)  
+<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroWilhelm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔝 Top Contributed Repos
+---
+
+## 📈 Contributions Overview  
+![Metrics](https://metrics.lecoq.io/PietroWilhelm?template=classic&isocalendar=1&languages=1&activity=1&notable=1&isocalendar.duration=full-year&languages.limit=8&config.timezone=America%2FSao_Paulo)
+
+---
+
+## 🔝 Top Contributed Repos  
 ![](https://github-contributor-stats.vercel.app/api?username=PietroWilhelm&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
