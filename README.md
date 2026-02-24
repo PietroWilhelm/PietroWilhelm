@@ -26,24 +26,4 @@ I believe in clean code, a good developer experience (DX), and delivering produc
 ### **Bancos de Dados & Ferramentas**
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
----
-
-## 📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PietroWilhelm&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroWilhelm&theme=dark&layout=compact&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PietroWilhelm&theme=dark&hide_border=false" />
-</div>
-
----
-
-## 🔝Featured Repositories
-![](https://github-contributor-stats.vercel.app/api?username=PietroWilhelm&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PietroWilhelm&icon=9&color=6" />
-</div>
+--
