@@ -14,28 +14,6 @@ I believe in clean code, great developer experience (DX), and products that genu
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pietrowilhelm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pietrowilhelm&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=7)
-
-</div>
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages & Core
